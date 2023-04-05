@@ -1,0 +1,13 @@
+.post {
+    width: 30%;
+    padding: 10px 0 ;
+    margin: 20px auto;
+    background-color: #bfd7ea;
+    border-radius: 8px;
+}
+.title {
+    font-size: 24px;
+}
+.descr {
+    font-size: 18px;
+}
